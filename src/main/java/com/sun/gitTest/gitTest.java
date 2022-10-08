@@ -7,5 +7,6 @@ public class gitTest {
         System.out.println("要修复一个代码");
         System.out.println("master git");
         System.out.println("hot-fix git");
+        System.out.println("我的test");
     }
 }
