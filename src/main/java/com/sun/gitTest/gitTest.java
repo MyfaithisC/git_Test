@@ -8,5 +8,6 @@ public class gitTest {
         System.out.println("master git");
         System.out.println("hot-fix git");
         System.out.println("我的test");
+        System.out.prinln("用pull吧")
     }
 }
