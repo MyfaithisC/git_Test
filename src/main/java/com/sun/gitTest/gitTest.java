@@ -5,5 +5,6 @@ public class gitTest {
         System.out.println("测试git");
         System.out.println("测试版本git2");
         System.out.println("要修复一个代码");
+        System.out.println("hot-fix git");
     }
 }
